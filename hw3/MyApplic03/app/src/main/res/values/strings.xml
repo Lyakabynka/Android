@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplic03</string>
+    <string name="man">man</string>
+    <string name="woman">woman</string>
+    <string name="other">other</string>
+    <string name="selected_gender">selected gender: </string>
+</resources>

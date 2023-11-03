@@ -1,0 +1,1 @@
+Позбавитися deprecated code: startActivityForResult
